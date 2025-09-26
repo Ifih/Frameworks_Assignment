@@ -17,7 +17,7 @@ This repository contains Python scripts and visualizations for analyzing a datas
 - **title_wordcloud.png**: Word cloud of paper titles.
 - **top_journals.png**: Bar chart of top publishing journals.
 
-## How to Run the Streamlit App
+## How to Run the Streamlit App and Data Analysis App
 
 1. Install required packages:
    ```powershell
@@ -28,6 +28,7 @@ This repository contains Python scripts and visualizations for analyzing a datas
    streamlit run app.py
    python dataAnalysis.py
    ```
+   **Note:Ensure that metadata.csv is in the same directory as the scripts**.
 
 ## Features
 
