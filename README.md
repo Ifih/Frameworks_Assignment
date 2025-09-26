@@ -23,7 +23,8 @@ This repository contains Python scripts and visualizations for analyzing a datas
    ```powershell
    pip install pandas numpy matplotlib seaborn wordcloud streamlit
    ```
-2. Launch the apps:
+2. Download the metadata.csv file from https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+3. Launch the apps:
    ```powershell
    streamlit run app.py
    ```
