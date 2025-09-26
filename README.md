@@ -28,7 +28,7 @@ This repository contains Python scripts and visualizations for analyzing a datas
    streamlit run app.py
    python dataAnalysis.py
    ```
-   **Note:Ensure that metadata.csv is in the same directory as the scripts**.
+   **Note: Ensure that metadata.csv is in the same directory as the scripts**.
 
 ## Features
 
