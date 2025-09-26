@@ -26,6 +26,8 @@ This repository contains Python scripts and visualizations for analyzing a datas
 2. Launch the apps:
    ```powershell
    streamlit run app.py
+   ```
+   ```powershell
    python dataAnalysis.py
    ```
    **Note: Ensure that metadata.csv is in the same directory as the scripts**.
